@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akshitha Vagalla | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Akshitha Vagalla</h1>
+        <p>AI Researcher | Developer | Innovator</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Passionate about AI, Generative Models, and Computer Vision. Specializing in anomaly detection and deep learning research.</p>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <div class="project-card">
+            <h3>🔹 SCG to ECG Translation using ACGAN</h3>
+            <p>Developed a deep learning model to convert SCG to ECG using ACGAN, enhancing signal accuracy.</p>
+        </div>
+        <div class="project-card">
+            <h3>🔹 Unsupervised Anomaly Detection</h3>
+            <p>Designed an AI model for industrial defect detection using MVTec dataset, achieving 92% accuracy.</p>
+        </div>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <p>Python | TensorFlow | OpenCV | AI & ML | Jetson Nano | Blender</p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com</p>
+        <p>GitHub: <a href="https://github.com/AkshithaVagalla" target="_blank">AkshithaVagalla</a></p>
+        <p>LinkedIn: <a href="#" target="_blank">Your LinkedIn</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Akshitha Vagalla. All rights reserved.</p>
+    </footer>
+</body>
+</html>
